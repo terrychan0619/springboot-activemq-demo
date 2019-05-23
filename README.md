@@ -1,1 +1,2 @@
 # springboot-activemq-demo
+SpringBoot整合ActiveMQ之Queue和Topic模式
