@@ -1,0 +1,15 @@
+spring: 
+ activemq: 
+    user: admin
+    password: admin
+    broker-url: tcp://localhost:61616
+    in-memory: true
+    pool: 
+      enabled: false
+
+activemq:
+  topic1: myTopic1
+  topic2: myTopic2
+  queue1: myQueue1
+  queue2: myQueue2
+  
